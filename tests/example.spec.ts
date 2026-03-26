@@ -18,4 +18,6 @@ test('get started link', async ({ page }) => {
 
   //thuc hanh merge PR
   //thực hành fix cmt
+  //fix cmt1
+  //fix cmt2
 });
