@@ -17,4 +17,7 @@ test('get started link', async ({ page }) => {
   await expect(page.getByRole('heading', { name: 'Installation' })).toBeVisible();
 
   //thuc hanh merge PR
+  //thực hành fix cmt
+  //fix cmt1
+  //fix cmt2
 });
